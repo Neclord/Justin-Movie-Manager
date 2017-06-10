@@ -1,0 +1,11 @@
+.html-page {
+	margin-left: 10px;
+}
+
+.header-home,.header-movies {
+	display: inline-block;
+}
+
+.list-table {
+	width: 45%;
+}
